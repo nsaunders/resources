@@ -12,3 +12,9 @@ https://medium.com/innoarchitech/why-software-development-time-estimation-doesn-
 
 ### Inline styles vs. CSS
 https://www.sderosiaux.com/articles/2015/08/17/react-inline-styles-vs-css-stupid-benchmark/
+
+### Automated GUI testing
+
+http://arbitraryreason.com/automated-gui-testing-will-kill-you/
+
+https://www.quora.com/Why-is-functional-testing-against-the-UI-so-fragile
