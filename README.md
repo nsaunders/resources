@@ -18,3 +18,7 @@ https://www.sderosiaux.com/articles/2015/08/17/react-inline-styles-vs-css-stupid
 http://arbitraryreason.com/automated-gui-testing-will-kill-you/
 
 https://www.quora.com/Why-is-functional-testing-against-the-UI-so-fragile
+
+### Semver
+
+https://github.com/semver/semver/issues/148#issuecomment-25529446
